@@ -40,11 +40,12 @@ const TPE = (function () {
   /* ══════════════════════════════════════════════════════════════════
      GITHUB CONFIG  ← fill these in before deploying
   ══════════════════════════════════════════════════════════════════ */
-  var GH_OWNER  = 'YOUR_GITHUB_USERNAME';        // e.g. 'ecosystemgenesis'
-  var GH_REPO   = 'tpe-data';                    // your data repo name
+  var GH_OWNER  = 'davecarolan';
+  var GH_REPO   = 'tpe-data';
   var GH_BRANCH = 'main';
   // Fine-grained PAT — Contents: read+write on this repo only
-  var GH_TOKEN  = 'ghp_REPLACE_WITH_YOUR_TOKEN';
+  // ← Paste your token here after completing Step 3 in the setup guide
+  var GH_TOKEN  = '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';
 
   var GH_RAW = 'https://raw.githubusercontent.com/' +
     GH_OWNER + '/' + GH_REPO + '/' + GH_BRANCH + '/data/';
