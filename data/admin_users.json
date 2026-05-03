@@ -1,9 +1,14 @@
 [
   {
-    "id": "admin-001",
+    "id": "76575654-22a3-4749-b496-fddf624f4fc1",
     "email": "admin@ecosystemgenesis.com",
-    "name": "Admin",
-    "password_hash": "Genesis2026",
-    "created_at": "2025-01-01T00:00:00.000Z"
+    "password_hash": "$2a$08$dY0PWqBjpIQ5PPYDFStgBeIdO3x9KtVg62HpTK7WeIdCV/bUKiwgC",
+    "created_at": "2026-03-18T10:16:36.384469+00:00"
+  },
+  {
+    "id": "4dec7f6d-7ecc-4ef5-b0de-114c9f47e98b",
+    "email": "dave@davecarolan.com",
+    "password_hash": "11111111",
+    "created_at": "2026-03-21T01:21:32+00:00"
   }
 ]
